@@ -35,8 +35,5 @@
   "scripts": {
     "test": "gulp"
   },
-  "license": "Apache-2.0",
-  "dependencies": {
-    "shell-escape": "^0.2.0"
-  }
+  "license": "Apache-2.0"
 }
