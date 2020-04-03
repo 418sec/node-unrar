@@ -4,8 +4,8 @@
   "description": "Unrar wrapper for Node-js.",
   "homepage": "",
   "repository": {
-    "type" : "git",
-    "url" :  "http://github.com/scopsy/node-unrar.git"
+    "type": "git",
+    "url": "http://github.com/scopsy/node-unrar.git"
   },
   "author": {
     "name": "Dima Grossman",

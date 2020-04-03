@@ -40,7 +40,7 @@
       2,
       "single"
     ],
-    "keyword-spacing": [
+    "space-after-keywords": [
       2,
       "always"
     ],
